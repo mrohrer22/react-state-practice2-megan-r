@@ -36,6 +36,7 @@ export default function FeedbackForm () {
                 <br />
                 <button type="submit">Submit Feedback</button>
             </form>
+            <br />
             <div className="preview">
                 <h2>Live Feedback</h2>
                 <p>Name: {formData.name}</p>
