@@ -1,0 +1,30 @@
+.header {
+  background-color: white;
+  text-align: center;
+}
+
+.container {
+  background-color: rgba(112, 112, 184, 0.274);
+  padding: 20px;
+}
+
+label {
+  margin-top: 20px;
+}
+
+.form {
+  align-content: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.preview {
+  align-content: center;
+}
+
+button {
+  background-color: rgba(128, 128, 128, 0.493);
+}
+
+
+
